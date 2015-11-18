@@ -1,2 +1,2 @@
 # triangleproblem
-Le Triangle Problem 
+Triangle Problem 
